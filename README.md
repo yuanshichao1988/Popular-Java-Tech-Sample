@@ -9,3 +9,10 @@
 
 ----------
 ### 二、
+
+
+***
+## IT牛人Blog收集
+
+- [酷壳-陈浩](https://coolshell.cn/)
+- [阮一峰的博客](http://www.ruanyifeng.com/home.html)
