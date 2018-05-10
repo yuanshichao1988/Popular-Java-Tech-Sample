@@ -1,7 +1,7 @@
 # GitHub 优质资源收集整理
 ***
 > ## 架构类
-[互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay](https://github.com/davideuler/architecture.of.internet-product)
+- [互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay](https://github.com/davideuler/architecture.of.internet-product)
 
 
 > ## 大数据
