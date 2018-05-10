@@ -16,3 +16,5 @@
 
 - [酷壳-陈浩](https://coolshell.cn/)
 - [阮一峰的博客](http://www.ruanyifeng.com/home.html)
+- [过往记忆](https://www.iteblog.com)
+- [lxw的大数据田地](http://lxw1234.com/)
