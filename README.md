@@ -23,3 +23,6 @@
 - [过往记忆](https://www.iteblog.com)
 - [lxw的大数据田地](http://lxw1234.com/)
 - [结构之法 算法之道](https://blog.csdn.net/v_JULY_v)
+- [纯洁的微笑](http://www.ityouknow.com)
+- [程序猿DD-翟永超](http://blog.didispace.com)
+- [Spring Cloud 中文索引](http://springcloud.fun/)
