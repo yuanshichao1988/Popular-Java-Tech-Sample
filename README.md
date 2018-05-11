@@ -8,8 +8,12 @@
 ##### ①、[[Google Guava] 排序: Guava强大的”流畅风格比较器”](http://www.baidu.com)
 
 ----------
-### 二、
+### 二、分布式
 
+- 分布式ID生成器
+- Sharding-JDBC
+- 分布式trace
+- 
 
 ***
 ## IT牛人Blog收集
@@ -18,3 +22,4 @@
 - [阮一峰的博客](http://www.ruanyifeng.com/home.html)
 - [过往记忆](https://www.iteblog.com)
 - [lxw的大数据田地](http://lxw1234.com/)
+- [结构之法 算法之道](https://blog.csdn.net/v_JULY_v)
